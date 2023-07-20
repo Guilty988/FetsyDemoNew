@@ -1,0 +1,14 @@
+C:\Users\jzore\source\repos\FetsyProject\EntitiesLayer\bin\Debug\net6.0\EntitiesLayer.deps.json
+C:\Users\jzore\source\repos\FetsyProject\EntitiesLayer\bin\Debug\net6.0\EntitiesLayer.dll
+C:\Users\jzore\source\repos\FetsyProject\EntitiesLayer\bin\Debug\net6.0\EntitiesLayer.pdb
+C:\Users\jzore\source\repos\FetsyProject\EntitiesLayer\obj\Debug\net6.0\EntitiesLayer.csproj.AssemblyReference.cache
+C:\Users\jzore\source\repos\FetsyProject\EntitiesLayer\obj\Debug\net6.0\EntitiesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jzore\source\repos\FetsyProject\EntitiesLayer\obj\Debug\net6.0\EntitiesLayer.AssemblyInfoInputs.cache
+C:\Users\jzore\source\repos\FetsyProject\EntitiesLayer\obj\Debug\net6.0\EntitiesLayer.AssemblyInfo.cs
+C:\Users\jzore\source\repos\FetsyProject\EntitiesLayer\obj\Debug\net6.0\EntitiesLayer.csproj.CoreCompileInputs.cache
+C:\Users\jzore\source\repos\FetsyProject\EntitiesLayer\obj\Debug\net6.0\EntitiesLayer.dll
+C:\Users\jzore\source\repos\FetsyProject\EntitiesLayer\obj\Debug\net6.0\refint\EntitiesLayer.dll
+C:\Users\jzore\source\repos\FetsyProject\EntitiesLayer\obj\Debug\net6.0\EntitiesLayer.pdb
+C:\Users\jzore\source\repos\FetsyProject\EntitiesLayer\obj\Debug\net6.0\ref\EntitiesLayer.dll
+C:\Users\jzore\source\repos\FetsyProject\EntitiesLayer\bin\Debug\net6.0\EntitiesLayer.runtimeconfig.json
+C:\Users\jzore\source\repos\FetsyProject\EntitiesLayer\obj\Debug\net6.0\EntitiesLayer.genruntimeconfig.cache
